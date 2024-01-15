@@ -129,7 +129,7 @@
 		"eslint-plugin-header": "3.1.1",
 		"eslint-plugin-import": "2.25.4",
 		"eslint-plugin-jquery": "1.5.1",
-		"eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#23abcf9988f7fa00d26929f11841aab7ccb16b2b",
+		"eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#5b0c972eacf19286e4c66221b39113bf8728a99e",
 		"eslint-plugin-no-only-tests": "2.6.0",
 		"eslint-plugin-react": "7.29.4",
 		"fetch-mock-jest": "^1.5.1",
