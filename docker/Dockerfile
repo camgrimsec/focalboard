@@ -22,7 +22,7 @@ ARG TARGETARCH
 RUN EXCLUDE_PLUGIN=true EXCLUDE_SERVER=true EXCLUDE_ENTERPRISE=true make server-docker os=${TARGETOS} arch=${TARGETARCH}
 
 ## Final image
-FROM debian:buster-slim@sha256:5b0b1a9a54651bbe9d4d3ee96bbda2b2a1da3d2fa198ddebbced46dfdca7f216
+FROM debian:buster-slim@sha256:73e7d34899e3c199f174ddec367780a92c9490354b48c6448caeb1e8b16d0e87
 
 RUN mkdir -p /opt/focalboard/data/files
 RUN chown -R nobody:nogroup /opt/focalboard
