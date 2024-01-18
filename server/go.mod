@@ -13,7 +13,7 @@ require (
 	github.com/mattermost/mattermost-server/v6 81de078e1dfd
 	github.com/mattermost/morph v1.0.5-0.20221115094356-4c18a75b1f5e
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
-	github.com/mgdelacroix/foundation v0.0.0-20220812143423-0bfc18f73538
+	github.com/mgdelacroix/foundation v0.0.0-20230510073833-0660207768ef
 	github.com/oklog/run v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
